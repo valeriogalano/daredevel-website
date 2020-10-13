@@ -36,4 +36,4 @@ Fonti:
 * https://forbesindia.com/interview/special/brian-kernighan-no-one-thought-c-would-become-so-big/29982/1
 * https://www.linuxjournal.com/article/7035
 
-[The C programming language]:  https://amzn.to/2Z5BL9X
+[The C programming language]:  https://amzn.to/3iVQDOr
