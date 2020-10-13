@@ -12,7 +12,7 @@ disqusShortname = "daredevel"
   subtitle = "Valerio Galano's blog"
   mainSections = ["post","posts"]
   logo = "img/logoDD512x512.png" # Expecting square dimensions
-  favicon = "img/favicon.ico"
+  favicon = "img/logoDD512x512.png"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
@@ -67,6 +67,11 @@ disqusShortname = "daredevel"
   #kaggle = "username"
   #weibo = "username"
   #slack = "valeriogalano"
+
+[[menu.main]]
+    name = "Valerio Galano"
+    url = "https://valeriogalano.it"
+    weight = 1
 
 #[[menu.main]]
 #    name = "Categories"
