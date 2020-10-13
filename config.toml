@@ -5,7 +5,7 @@ description = "sss"
 theme = "beautifulhugo"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
-disqusShortname = "daredevel"
+#disqusShortname = "daredevel"
 
 [Params]
   selfHosted = true
