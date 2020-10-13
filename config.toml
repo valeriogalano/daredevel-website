@@ -8,6 +8,7 @@ pygmentsUseClasses = true
 disqusShortname = "daredevel"
 
 [Params]
+  selfHosted = true
   homeTitle = "Daredevel" # Set a different text for the header on the home page
   subtitle = "Valerio Galano's blog"
   mainSections = ["post","posts"]
