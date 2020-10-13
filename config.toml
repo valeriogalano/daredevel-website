@@ -1,0 +1,79 @@
+baseURL = "https://daredevel.com/"
+languageCode = "it-it"
+title = "Daredevel"
+description = "sss"
+theme = "beautifulhugo"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+disqusShortname = "daredevel"
+
+[Params]
+  homeTitle = "Daredevel" # Set a different text for the header on the home page
+  subtitle = "Valerio Galano's blog"
+  mainSections = ["post","posts"]
+  logo = "img/logoDD512x512.png" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat = "2006-01-06"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+#  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "Valerio Galano"
+  website = "https://valeriogalano.it"
+  email = "v.galano@daredevel.com"
+  #facebook = "username"
+  github = "daredevel"
+  #gitlab = "username"
+  #bitbucket = "username"
+  twitter = "valeriogalano"
+  #reddit = "username"
+  linkedin = "valeriogalano"
+  #xing = "username"
+  #stackoverflow = "users/XXXXXXX/username"
+  #snapchat = "username"
+  instagram = "valeriogalano"
+  #youtube = "user/username" # or channel/channelname
+  #soundcloud = "username"
+  spotify = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+  #vk = "username"
+  #paypal = "username"
+  telegram = "valeriogalano"
+  #500px = "username"
+  #codepen = "username"
+  #mastodon = "url"
+  #kaggle = "username"
+  #weibo = "username"
+  #slack = "valeriogalano"
+
+#[[menu.main]]
+#    name = "Categories"
+#    url = "categories"
+#    weight = 2
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3
