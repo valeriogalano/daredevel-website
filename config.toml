@@ -1,6 +1,6 @@
 baseURL = "https://daredevel.com/"
 languageCode = "it-it"
-title = "Daredevel"
+title = "Daredevel by Valerio Galano"
 description = "sss"
 theme = "beautifulhugo"
 pygmentsCodeFences = true
@@ -56,7 +56,7 @@ pygmentsUseClasses = true
   instagram = "valeriogalano"
   #youtube = "user/username" # or channel/channelname
   #soundcloud = "username"
-  spotify = "username"
+  #spotify = "username"
   #bandcamp = "username"
   #itchio = "username"
   #vk = "username"
