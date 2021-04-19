@@ -1,0 +1,3 @@
+# Netlify redirects
+/newsletter  https://valeriogalano.substack.com
+/newsletter/ https://valeriogalano.substack.com
