@@ -2,7 +2,7 @@
 title: "Split, reduce and convert PDF documents to JPEG using PHP ImageMagik"
 author: Valerio Galano
 type: post
-date: 2021-04-30T11:00:00+01:00
+date: 2021-04-30T10:00:00+01:00
 tags:
   - PHP
   - PDF
