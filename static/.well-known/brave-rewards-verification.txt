@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: daredevel.com
+Token: 00bb334d0d1e73b46c39ed0cfcb580c0ff0845a04ae9a6e0a7477b7bdde5b225
