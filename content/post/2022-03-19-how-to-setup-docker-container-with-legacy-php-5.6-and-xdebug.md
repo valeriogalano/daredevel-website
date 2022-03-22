@@ -1,5 +1,5 @@
 ---
-title: "How to setup Docker container with old PHP 5.6 and Xdebug"
+title: "How to setup Docker container with legacy PHP 5.6 and Xdebug"
 author: Valerio Galano
 type: post
 date: 2022-03-22T18:00:00+01:00
