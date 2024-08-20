@@ -39,7 +39,7 @@ pygmentsUseClasses = true
 #  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
 
-[Author]
+[Params.author]
   name = "Valerio Galano"
   website = "https://valeriogalano.it"
   email = "v.galano@daredevel.com"
