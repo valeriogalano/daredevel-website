@@ -1,0 +1,3 @@
+# Redirects
+Redirect 301 /newsletter  https://valeriogalano.substack.com
+Redirect 301 /newsletter/ https://valeriogalano.substack.com
