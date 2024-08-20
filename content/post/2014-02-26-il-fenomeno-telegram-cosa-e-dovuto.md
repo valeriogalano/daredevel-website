@@ -21,7 +21,7 @@ Il 20 Febbraio 2014, Facebook ha annunciato l'acquisto della famosissima applica
 
 Lo stesso giorno, 500,000 persone hanno installato sui propri telefoni una certa applicazione chiamata Telegram, dando così il via ad un fenomeno che dopo soli 4 giorni ha prodotto 8 milioni di nuovi iscritti, come testimoniato da alcuni tweet dell'account ufficiale tra i quali, forse, il più emblematico è quello che annuncia la necessità di potenziare la loro rete di server per far fronte all'espansione:
 
-{{< tweet 437374194998079489 >}}
+# {{< tweet user="telegram" id="437374194998079489" >}}
 
 ## Ma cos'è questo Telegram?
 
