@@ -42,12 +42,3 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./public/
           server-dir: /
-
-      - name: 📂 Sync files to daredevel.it
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
-        with:
-          server: pensieriincodice.it
-          username: website@daredevel.it
-          password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: ./public/
-          server-dir: /
