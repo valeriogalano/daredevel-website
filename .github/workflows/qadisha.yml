@@ -34,11 +34,20 @@ jobs:
       - name: Build
         run: hugo -D
 
-      - name: 📂 Sync files
+      - name: 📂 Sync files to daredevel.com
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: pensieriincodice.it
           username: website@daredevel.com
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./public/
+          server-dir: /
+
+      - name: 📂 Sync files to daredevel.it
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: pensieriincodice.it
+          username: website@daredevel.it
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./public/
           server-dir: /
