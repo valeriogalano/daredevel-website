@@ -83,3 +83,8 @@ pygmentsUseClasses = true
     name = "Tags"
     url = "tags"
     weight = 3
+
+[[menu.main]]
+    name = "Support"
+    url = "support"
+    weight = 4
